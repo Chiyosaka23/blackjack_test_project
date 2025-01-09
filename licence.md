@@ -1,1 +1,1 @@
-This program is free to use for everybody. You can modify the code however you want to do with it. You cannot however sell this for monetary purposes.
+This program is free to use for everybody. You can modify the code however you want. You cannot however sell the code for monetary purposes.
